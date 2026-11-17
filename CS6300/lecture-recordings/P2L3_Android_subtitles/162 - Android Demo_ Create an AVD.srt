@@ -1,0 +1,192 @@
+1
+00:00:00,300 --> 00:00:02,940
+ So now, let's start the Android virtual device
+
+2
+00:00:02,940 --> 00:00:05,720
+ manager by clicking on this button, and this is
+
+3
+00:00:05,720 --> 00:00:08,360
+ the place where you can create and configure
+
+4
+00:00:08,360 --> 00:00:10,940
+ Android virtual devices, which is what we normally call
+
+5
+00:00:10,940 --> 00:00:13,490
+ emulators. So if you click on the second
+
+6
+00:00:13,490 --> 00:00:18,510
+ tab, you can see some standard pre-defined configurations. Just
+
+7
+00:00:18,510 --> 00:00:21,950
+ as an example let's pick one, for example the
+
+8
+00:00:21,950 --> 00:00:25,500
+ Nexus 4 configuration. So this will emulate a Nexus
+
+9
+00:00:25,500 --> 00:00:28,040
+ 4 and now when we click on the Create AVD,
+
+10
+00:00:28,040 --> 00:00:31,060
+ this will create the device, and the configuration and a
+
+11
+00:00:31,060 --> 00:00:33,620
+ lot of the information is already filled out as you
+
+12
+00:00:33,620 --> 00:00:37,190
+ can see. And now we can pick the Target API and
+
+13
+00:00:37,190 --> 00:00:40,600
+ version of Android. And the next thing I will recommend
+
+14
+00:00:40,600 --> 00:00:44,400
+ to select is Snapshot in the Emulation Options because that
+
+15
+00:00:44,400 --> 00:00:47,920
+ makes the boot up time for the emulator considerably faster.
+
+16
+00:00:47,920 --> 00:00:50,570
+ So after we've done that, we'll click on OK, which will
+
+17
+00:00:50,570 --> 00:00:53,844
+ create the actual virtual device, and this is going
+
+18
+00:00:53,844 --> 00:00:55,820
+ to take just a little bit of time because the
+
+19
+00:00:55,820 --> 00:00:58,590
+ configurations being set up. And after we're done, we
+
+20
+00:00:58,590 --> 00:01:01,580
+ can see that now we have the newly created virtual
+
+21
+00:01:01,580 --> 00:01:05,069
+ device for the Nexus 4 right here in our
+
+22
+00:01:05,069 --> 00:01:10,200
+ list. So now we can select our emulator and start
+
+23
+00:01:10,200 --> 00:01:13,320
+ it. And when we click on Start we're presented with
+
+24
+00:01:13,320 --> 00:01:15,990
+ this window, in which we can select some launch options.
+
+25
+00:01:15,990 --> 00:01:18,160
+ And the one I'm going to select here is this Scale
+
+26
+00:01:18,160 --> 00:01:20,810
+ Display to Real Size, which means that we're going to see the
+
+27
+00:01:20,810 --> 00:01:24,410
+ emulated device in real size instead of full screen which will
+
+28
+00:01:24,410 --> 00:01:27,660
+ give us an idea how big is the actual display. So we
+
+29
+00:01:27,660 --> 00:01:30,800
+ click Launch. And this might take some time the first time
+
+30
+00:01:30,800 --> 00:01:34,090
+ you do it, but then it'll be faster after that. So what
+
+31
+00:01:34,090 --> 00:01:37,420
+ happens is basically, the emulator's being created and as soon as
+
+32
+00:01:37,420 --> 00:01:40,990
+ it is created, it is launched. So after the device is started,
+
+33
+00:01:40,990 --> 00:01:44,930
+ it'll start booting the operating system, the Android operating system. And
+
+34
+00:01:44,930 --> 00:01:47,510
+ when that is done you will be presented with the opening
+
+35
+00:01:47,510 --> 00:01:50,430
+ screen for the operating system, because this is the first time
+
+36
+00:01:50,430 --> 00:01:52,760
+ that we run the emulator. So the only thing I want
+
+37
+00:01:52,760 --> 00:01:55,470
+ to point out here, is that here, on the right, you
+
+38
+00:01:55,470 --> 00:01:58,550
+ have a set of buttons which correspond to the buttons that
+
+39
+00:01:58,550 --> 00:02:01,820
+ you normally have in in any of your mobile devices. So
+
+40
+00:02:01,820 --> 00:02:06,290
+ you have the volume buttons, the power button, the home button, and
+
+41
+00:02:06,290 --> 00:02:10,220
+ other navigation buttons, and you can use those to interact
+
+42
+00:02:10,220 --> 00:02:13,387
+ with other applications in the emulator. So what we're going to
+
+43
+00:02:13,387 --> 00:02:15,295
+ do next is we're going to click OK here then
+
+44
+00:02:15,295 --> 00:02:18,330
+ and we'll get to the initial screen of Android. And at
+
+45
+00:02:18,330 --> 00:02:21,570
+ this point we have our fully functional, fully configured emulator
+
+46
+00:02:21,570 --> 00:02:25,280
+ and we can run our apps on this emulator, which is
+
+47
+00:02:25,280 --> 00:02:27,300
+ what we're going to see next. We're going to see how
+
+48
+00:02:27,300 --> 00:02:27,300
+ to write applications, compile them, and run them on the emulator.
+
