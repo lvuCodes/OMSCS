@@ -1,0 +1,20 @@
+# CS6300 62 - Installing GIT Question
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,120 --> 00:00:03,020 | As we did for Eclipse, and IDEs in general, we want |
+| 00:00:03,020 --> 00:00:05,133 | to study Git in a hands on way. So we're going |
+| 00:00:05,133 --> 00:00:08,425 | to start by seeing how to install Git. And Git is also |
+| 00:00:08,425 --> 00:00:12,440 | multiplatform, so you can install it no matter what operating system you |
+| 00:00:12,440 --> 00:00:15,980 | are using, unless of course you are using some arcane operating system. |
+| 00:00:15,980 --> 00:00:18,530 | But if you are using Linux, for instance, there should be a |
+| 00:00:18,530 --> 00:00:22,608 | package available that can install Git for your specific distribution. If you're |
+| 00:00:22,608 --> 00:00:25,460 | using Mac OS, Git is also available as part of Xcode and |
+| 00:00:25,460 --> 00:00:29,270 | also as an independent package. Finally, if you're using Windows, Git is |
+| 00:00:29,270 --> 00:00:33,090 | available as a package with an installer. In general, you can go |
+| 00:00:33,090 --> 00:00:37,290 | here to get information about how to get Git, where to download |
+| 00:00:37,290 --> 00:00:39,975 | it, how to install it, and so on. So, now what I'd |
+| 00:00:39,975 --> 00:00:42,312 | like for you to do is to go, get Git, install it, |
+| 00:00:42,312 --> 00:00:45,469 | in case you don't have it installed already on your machine. And |
+| 00:00:45,469 --> 00:00:48,253 | after that, you should be able to run Git from the command |
+| 00:00:48,253 --> 00:00:48,253 | line. And, that's exactly what we're going to do through a demo. |

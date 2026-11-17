@@ -1,0 +1,8 @@
+# CS6300 147 - Recap Quiz Question
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,140 --> 00:00:01,580 | And for the last quiz, I want to know |
+| 00:00:01,580 --> 00:00:05,250 | which of the following diagrams are UML Structural |
+| 00:00:05,250 --> 00:00:08,790 | Diagrams? Use case diagram, class diagram, deployment diagram |
+| 00:00:08,790 --> 00:00:08,790 | and sequence diagram. Again, mark all that apply. |

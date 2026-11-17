@@ -1,0 +1,7 @@
+# CS6300 35 - Choosing a Model Quiz Question
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,110 --> 00:00:03,580 | The second question I want to ask you is which model is the most suitable if you |
+| 00:00:03,580 --> 00:00:06,660 | expect mid-course corrections? Would you rather use a |
+| 00:00:06,660 --> 00:00:06,660 | pure waterfall model, a spiral model, or evolutionary prototyping? |

@@ -1,0 +1,7 @@
+# CS6300 56 - VCS Quiz Solution
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,130 --> 00:00:03,030 | And of course there's no right answer for this. I just wanted to collect some |
+| 00:00:03,030 --> 00:00:05,020 | statistics. To see what kind of previous |
+| 00:00:05,020 --> 00:00:05,020 | experience you have with this kind of systems. |

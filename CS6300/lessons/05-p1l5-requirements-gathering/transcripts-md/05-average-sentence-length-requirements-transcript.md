@@ -1,0 +1,25 @@
+# CS6300 78 - Average Sentence Length Requirements
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,340 --> 00:00:02,300 | You've heard Alvin come up with several conclusions for how to |
+| 00:00:02,300 --> 00:00:04,510 | set up the program. And we're going to ask that you follow his |
+| 00:00:04,510 --> 00:00:07,590 | instincts. We'll spell that out here in a little more technical details |
+| 00:00:07,590 --> 00:00:11,030 | so that everyone is working from the same basic starting point. The |
+| 00:00:11,030 --> 00:00:13,770 | program must be written in Java and must not make use of any |
+| 00:00:13,770 --> 00:00:16,730 | nonstandard Java libraries. You will be tested on a machine with the |
+| 00:00:16,730 --> 00:00:21,060 | vanilla installation of Java 1.6. Your program must compile on the command |
+| 00:00:21,060 --> 00:00:25,360 | line using the javac command without any additional options. All code |
+| 00:00:25,360 --> 00:00:27,530 | required to execute the program that is not part of the |
+| 00:00:27,530 --> 00:00:31,950 | standard JDK, must be included as source code with your program. |
+| 00:00:31,950 --> 00:00:34,380 | Your program should be an application. That is, it should have |
+| 00:00:34,380 --> 00:00:37,160 | a main method and should be executable from the command line using |
+| 00:00:37,160 --> 00:00:40,100 | the Java command. The user should be able to provide a |
+| 00:00:40,100 --> 00:00:42,450 | file path to the file they wish to be analyzed as a |
+| 00:00:42,450 --> 00:00:45,880 | command line argument. User should be able to specify which delimiters |
+| 00:00:45,880 --> 00:00:50,570 | count as sentence separators, using the flag -d, defaulting to Lauren's initial |
+| 00:00:50,570 --> 00:00:53,930 | thoughts on what should be used as delimiters. The user should be |
+| 00:00:53,930 --> 00:00:58,170 | able to specify a lower limit for word length, using the flag -l, |
+| 00:00:58,170 --> 00:01:02,100 | defaulting to Lauren's guess at what value might be good. Finally, the program's |
+| 00:01:02,100 --> 00:01:03,710 | output should be the average sentence |
+| 00:01:03,710 --> 00:01:03,710 | length. Rounded down to the nearest integer. |

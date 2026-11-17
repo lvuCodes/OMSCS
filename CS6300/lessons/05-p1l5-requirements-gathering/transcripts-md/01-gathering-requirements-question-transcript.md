@@ -1,0 +1,20 @@
+# CS6300 73 - Gathering Requirements Question
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,270 --> 00:00:02,969 | Gathering requirements is one of the most difficult tasks a software |
+| 00:00:02,969 --> 00:00:07,010 | engineer faces. In industry, you may gather requirements from end users, |
+| 00:00:07,010 --> 00:00:09,580 | external clients, or from co-workers in other areas of your own |
+| 00:00:09,580 --> 00:00:14,320 | company. Occasionally, you may receive a well documented set of requirements. |
+| 00:00:14,320 --> 00:00:16,970 | However, in most cases, you will need to glean the requirements |
+| 00:00:16,970 --> 00:00:20,230 | from conversations with the prospective clients, and distill them down into |
+| 00:00:20,230 --> 00:00:23,150 | something actionable on your own. Suppose a teacher came to you |
+| 00:00:23,150 --> 00:00:25,310 | with a request for a piece of software their students could |
+| 00:00:25,310 --> 00:00:28,500 | use to find out the average length of the sentences in |
+| 00:00:28,500 --> 00:00:31,390 | their essays. What questions come into mind to help you figure |
+| 00:00:31,390 --> 00:00:34,620 | out the full requirements for this project. Write down a list |
+| 00:00:34,620 --> 00:00:37,630 | of at least ten questions that might help you determine them. |
+| 00:00:37,630 --> 00:00:40,240 | Please take the time to do this before moving on. There's |
+| 00:00:40,240 --> 00:00:42,670 | no penalty for looking ahead, but if you skip this exercise |
+| 00:00:42,670 --> 00:00:44,920 | you'll cheat yourself out of the benefits of brainstorming and getting |
+| 00:00:44,920 --> 00:00:44,920 | your mind around the project before being bombarded by more information. |

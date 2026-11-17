@@ -1,0 +1,8 @@
+# CS6300 88 - Completeness Quiz Question
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,130 --> 00:00:03,060 | So now that we saw which of these requirements are pertinent and |
+| 00:00:03,060 --> 00:00:06,520 | which ones are not, can we consider the above list of requirements |
+| 00:00:06,520 --> 00:00:09,710 | of the list of these requirements marked here as a complete list |
+| 00:00:09,710 --> 00:00:09,710 | of requirements for a gym? And you have two options, yes or no. |

@@ -1,0 +1,24 @@
+# CS6300 150 - Android Introduction
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,280 --> 00:00:02,610 | So what is Android? As many of you probably already |
+| 00:00:02,610 --> 00:00:06,790 | know, Android is an operating system designed for mobile devices. Where |
+| 00:00:06,790 --> 00:00:09,760 | mobile devices are devices that are, of course, mobile, and |
+| 00:00:09,760 --> 00:00:12,750 | that are characterized by the fact of having touch screens and |
+| 00:00:12,750 --> 00:00:15,930 | sensors. Typical examples would be smart phones, like the one |
+| 00:00:15,930 --> 00:00:18,400 | that you probably have in your pocket, and tablets, that are |
+| 00:00:18,400 --> 00:00:20,260 | very commonly used nowadays. An |
+| 00:00:20,260 --> 00:00:22,110 | important characteristic of the Android operating |
+| 00:00:22,110 --> 00:00:25,400 | system, it is based on the Linux kernel. So it is |
+| 00:00:25,400 --> 00:00:28,760 | running customized version of the Linux kernel. And in order |
+| 00:00:28,760 --> 00:00:31,196 | to be able to run application, it is powered by |
+| 00:00:31,196 --> 00:00:35,130 | a Java-based virtual machine, which is called the Dalvik VM. |
+| 00:00:35,130 --> 00:00:37,750 | The Dalvik VM is a type of JVM which is used |
+| 00:00:37,750 --> 00:00:40,950 | in Android devices to run applications. An important point about |
+| 00:00:40,950 --> 00:00:43,830 | the Dalvik VM is that it is optimized for mobile |
+| 00:00:43,830 --> 00:00:46,480 | devices. What that means is that it is optimized for |
+| 00:00:46,480 --> 00:00:47,790 | low processing power and low |
+| 00:00:47,790 --> 00:00:51,170 | memory environments. Therefore, Android applications or |
+| 00:00:51,170 --> 00:00:53,010 | Android apps, as we normally call them, |
+| 00:00:53,010 --> 00:00:53,010 | are Java-based applications that run on Dalvik. |

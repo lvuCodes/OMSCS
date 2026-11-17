@@ -1,0 +1,73 @@
+# CS6300 157 - Intents
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,140 --> 00:00:02,490 | As we said at the beginning, the four components that |
+| 00:00:02,490 --> 00:00:05,971 | we just saw can be connected by using intents. So, |
+| 00:00:05,971 --> 00:00:09,430 | what is an intent? An intent is an abstract description |
+| 00:00:09,430 --> 00:00:12,490 | of an operation to be performed and it consists of two |
+| 00:00:12,490 --> 00:00:15,730 | main parts, an action and a set of data. The |
+| 00:00:15,730 --> 00:00:18,740 | action is the action to be performed, which is indicated as |
+| 00:00:18,740 --> 00:00:21,480 | a string. And the data is the data on which |
+| 00:00:21,480 --> 00:00:25,920 | the action will operate. For example, consider a phone call intent. |
+| 00:00:25,920 --> 00:00:28,930 | Such an intent might have call as an action. |
+| 00:00:28,930 --> 00:00:31,970 | And, information from the contact database, in particular |
+| 00:00:31,970 --> 00:00:34,220 | a phone number, as data. So, why are |
+| 00:00:34,220 --> 00:00:37,390 | intents useful? Well, because they provide the developers with |
+| 00:00:37,390 --> 00:00:41,020 | a way to perform late binding between different |
+| 00:00:41,020 --> 00:00:44,770 | applications to connect applications that were not initially meant |
+| 00:00:44,770 --> 00:00:47,190 | to be connected. That is, they allow for |
+| 00:00:47,190 --> 00:00:51,790 | binding at run time to otherwise completely decoupled applications. |
+| 00:00:51,790 --> 00:00:54,210 | So let's see an example of how this works. To do |
+| 00:00:54,210 --> 00:00:57,510 | that, let's use the same example as before. So imagine that |
+| 00:00:57,510 --> 00:01:01,570 | you're browsing your contacts, so activity one will be the contact |
+| 00:01:01,570 --> 00:01:04,950 | application. So an activity in the contacts application. So you use that |
+| 00:01:04,950 --> 00:01:07,470 | activity and you get to the person that you want to |
+| 00:01:07,470 --> 00:01:11,000 | call. At this point you click on the phone icon and |
+| 00:01:11,000 --> 00:01:14,310 | the result is the generation of an intent. And the intent |
+| 00:01:14,310 --> 00:01:16,890 | is exactly the one that we saw before. It's an intent in |
+| 00:01:16,890 --> 00:01:19,480 | which the action is call, and the data is the |
+| 00:01:19,480 --> 00:01:22,300 | phone number for the person that you want to call. When |
+| 00:01:22,300 --> 00:01:25,610 | this intent is generated what happens is that the call |
+| 00:01:25,610 --> 00:01:29,030 | activity of the phone app is being activated with the final |
+| 00:01:29,030 --> 00:01:32,090 | result that the person that you were looking up will |
+| 00:01:32,090 --> 00:01:35,500 | be called by your phone. So why does that happen? How |
+| 00:01:35,500 --> 00:01:38,090 | can it be that I perform an action in one activity |
+| 00:01:38,090 --> 00:01:41,910 | and another activity is started as a consequence? To answer that, |
+| 00:01:41,910 --> 00:01:44,490 | let's see how the binding between these two activities |
+| 00:01:44,490 --> 00:01:47,470 | happens through intents. And there's different ways in which that |
+| 00:01:47,470 --> 00:01:51,250 | can happen. The first possibility is a direct binding. |
+| 00:01:51,250 --> 00:01:54,641 | In this case the activity or the app generating the |
+| 00:01:54,641 --> 00:01:58,760 | intent will directly start an activity from another application. |
+| 00:01:58,760 --> 00:02:01,450 | Similarly, the app generating the intent could directly start the |
+| 00:02:01,450 --> 00:02:04,700 | service. For example, by requesting an audio player service |
+| 00:02:04,700 --> 00:02:07,710 | to play a given audio file or a stream. Finally, |
+| 00:02:07,710 --> 00:02:11,039 | and this is the most interesting type of binding, |
+| 00:02:11,039 --> 00:02:14,370 | the activity generating the intent, so in this case the |
+| 00:02:14,370 --> 00:02:18,200 | contacts application, could broadcast the event. And in this |
+| 00:02:18,200 --> 00:02:21,570 | case the intent will be delivered to all interested broadcast |
+| 00:02:21,570 --> 00:02:24,840 | receivers. So we just saw the broadcast receivers and |
+| 00:02:24,840 --> 00:02:27,570 | this is the way in which some information can be |
+| 00:02:27,570 --> 00:02:30,194 | broadcasted. So in this case clearly it would not be |
+| 00:02:30,194 --> 00:02:32,850 | a system event but it will be an application event. |
+| 00:02:32,850 --> 00:02:34,820 | Going back to our example of the phone call, |
+| 00:02:34,820 --> 00:02:38,870 | because the phone application previously notified the Android system |
+| 00:02:38,870 --> 00:02:41,410 | that it was supporting the action call, the system |
+| 00:02:41,410 --> 00:02:44,510 | will notify the phone app that a call intent has |
+| 00:02:44,510 --> 00:02:47,900 | been generated. So that's why this works. The phone |
+| 00:02:47,900 --> 00:02:51,250 | app says, I can handle calls. When a call intent |
+| 00:02:51,250 --> 00:02:55,220 | is broadcasted, the activity is bound to the intent. |
+| 00:02:55,220 --> 00:02:57,870 | The activity is notified about the intent, and can react |
+| 00:02:57,870 --> 00:03:00,330 | to it. And in case you're curious, this is also the |
+| 00:03:00,330 --> 00:03:03,300 | reason why for instance if you have more than one app |
+| 00:03:03,300 --> 00:03:05,490 | that can make phone calls, for example you have a voice |
+| 00:03:05,490 --> 00:03:08,490 | over IP application or multiple ones, and you have your regular |
+| 00:03:08,490 --> 00:03:12,420 | phone application, when you select the phone icon in your contacts |
+| 00:03:12,420 --> 00:03:15,390 | you are provided with a choice of which app to use |
+| 00:03:15,390 --> 00:03:19,230 | to call. That's because there are multiple parties, multiple activities, that |
+| 00:03:19,230 --> 00:03:23,055 | could handle that intent and therefore unless you define some default |
+| 00:03:23,055 --> 00:03:26,240 | behavior you will have to choose which one should be activated as |
+| 00:03:26,240 --> 00:03:30,050 | a consequence of the generation of the intent. So, similar to broadcast |
+| 00:03:30,050 --> 00:03:35,000 | receivers, intents are also extremely useful in many situations to bind the |
+| 00:03:35,000 --> 00:03:37,430 | activities that would be otherwise completely |
+| 00:03:37,430 --> 00:03:37,430 | decoupled, as we said at the beginning. |

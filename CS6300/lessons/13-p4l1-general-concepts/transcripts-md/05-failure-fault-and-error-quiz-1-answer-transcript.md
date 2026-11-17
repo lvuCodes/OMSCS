@@ -1,0 +1,8 @@
+# CS6300 238 - Failure -  Fault -  and Error Quiz Solution
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,440 --> 00:00:06,614 | The fact that the call to double three returns nine instead of six is clearly |
+| 00:00:06,614 --> 00:00:13,000 | a failure because it is an observable incorrect behavior of the program. |
+| 00:00:13,000 --> 00:00:16,110 | So let me remind you that the failure is conceptually related to the |
+| 00:00:16,110 --> 00:00:16,110 | behavior of the program, to the way the program acts and not its code. |

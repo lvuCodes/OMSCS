@@ -1,0 +1,8 @@
+# CS6300 297 - Subsumption Quiz Question
+
+| Timestamp | Content |
+|-----------|---------|
+| 00:00:00,100 --> 00:00:02,810 | Let's have another quick quiz about Subsumption. If we |
+| 00:00:02,810 --> 00:00:06,720 | consider Branch and Condition Coverage, does it subsume Branch Coverage, |
+| 00:00:06,720 --> 00:00:09,512 | and therefore Statement Coverage? Or in other words, does branch |
+| 00:00:09,512 --> 00:00:09,512 | and condition coverage imply branch coverage? Answer yes, or no. |
