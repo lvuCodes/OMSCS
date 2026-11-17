@@ -481,7 +481,7 @@ Let us now examine the epidemic threshold for two degree distributions we have s
 
 1) For random networks with Poisson degree distribution (such as ER networks), the variance is equal to the mean, and so the second moment is: $\bar{k^2} = \bar{k}(1 + \bar{k})$
 
-So, we have an epidemic if $\frac{\beta}{\beta+\mu} > \frac{1}{\bar{k}+1}$, which is equivalent to the expression we derived under homogeneous mixing ($\frac{\beta}{\mu} > \frac{1}{\bar{k}}$).
+So, we have an epidemic if $\frac{\beta}{\beta+\mu} > \frac{1}{\bar{k}+1}$, which is equivalent to the expression we derived under homogeneous mixing ($\frac{\beta}{\mu} > \frac{1}{\bar{k}}$). [^l09-1]
 
 ![[img/13-epidemic-threshold-random-vs-scalefree.jpg|500]]
 
@@ -641,3 +641,5 @@ We will continue our study of spreading processes on networks in the next Lesson
 ## 18 — Knowledge Check
 
 See [[lesson09-knowledge-check]] for the ungraded knowledge check questions.
+
+[^l09-1]: Possible source issue, see [[lesson-errata#L09-1|errata L09-1]].

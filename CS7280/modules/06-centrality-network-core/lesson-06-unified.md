@@ -19,7 +19,7 @@ Students will be able to:
 
 **Required Reading**
 
-- Chapter 7 (mostly sections 7.1-7.8) — M.E.J. Newman, [Networks: An Introduction](https://www.amazon.com/Networks-Mark-Newman/dp/0198805098), Oxford University Press — see [[newman-networks-ch07.pdf|local copy]].
+- Chapter 7 (mostly sections 7.1-7.8) — M.E.J. Newman, [Networks: An Introduction](https://www.amazon.com/Networks-Mark-Newman/dp/0198805098), Oxford University Press — see [[newman_networks_ch07.pdf|local copy]].
 - Section 14.3 — D. Easley and J. Kleinberg, [Networks, Crowds and Markets](https://www.cambridge.org/core/books/networks-crowds-and-markets/A70C7855A3003FE1079C25F8397AF641), Cambridge Univ Press, 2010 (also available [online](https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf)).
 - ["Rich-clubness test: how to determine whether a complex network has or doesn't have a rich-club?"](https://arxiv.org/abs/1704.03526) by Alessandro Muscoloni and Carlo Vittorio Cannistraci — see [[rich-clubness-test.pdf|local copy]]
 
@@ -195,7 +195,7 @@ The (shortest-path) betweenness centrality of node $i$ is defined as:
 
 $$v_i = \sum_{s,t \neq i} \frac{n_{s,t}(i)}{n_{s,t}}$$
 
-If $s$ and $t$ are the same, we define that $n_{s,t} = 1$.
+If $s$ and $t$ are the same, we define that $n_{s,t} = 1$. [^l06-1]
 
 The previous metric is often normalized by its maximum possible value *(which is $(n-1)(n-2)$, for a star network with $n$ nodes)* so that the centrality values are between 0 and 1. This is not necessary however given that we only care about the relative magnitude of centralities.
 
@@ -343,7 +343,7 @@ A path-based approach to identify a group of core nodes in a network is referred
 
 We define that a node $v$ "covers" a path $p$ when $v$ is traversed by $p$.
 
-The $\tau$-core is defined as follows: *given a set of network paths $P$ we are interested in, what is the minimal set of nodes that can cover at least a fraction $\tau$ of all paths in $P$?*
+The $\tau$-core is defined as follows: *given a set of network paths $P$ we are interested in, what is the minimal set of nodes that can cover at least a fraction $\tau$ of all paths in $P$?* [^l06-2]
 
 In the context of DAGs, the set $P$ can be the ST-paths from the set of all sources *(orange nodes)* to all targets *(blue nodes)*.
 
@@ -429,3 +429,6 @@ In practice, applying a wide collection of centrality metrics and core-group det
 ## 13 — Knowledge Check
 
 See [[lesson06-knowledge-check]] for the ungraded knowledge check questions.
+
+[^l06-1]: Possible source issue, see [[lesson-errata#L06-1|errata L06-1]].
+[^l06-2]: Possible source issue, see [[lesson-errata#L06-2|errata L06-2]].

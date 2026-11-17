@@ -238,7 +238,7 @@ This suggests that in lattice networks the diameter grows as a power-law of the 
 
 ![[img/08-gnp-vs-regular-diameter.jpg|700]]
 
-Let us go back to the hypothetical social network of 7 billion humans – and with an average of 6 connections per person. If this social network was a regular lattice, it would need to have 3 dimensions so that each node has 6 connections. So the diameter would be in the order of $n^{1/3}$, which is about 1,913 – this is much larger than the diameter we derived earlier for a random network of the same size and density - this being about 22.
+Let us go back to the hypothetical social network of 7 billion humans – and with an average of 6 connections per person. If this social network was a regular lattice, it would need to have 3 dimensions so that each node has 6 connections. So the diameter would be in the order of $n^{1/3}$, which is about 1,913 – this is much larger than the diameter we derived earlier for a random network of the same size and density - this being about 22. [^l05-1]
 
 These simple derivations show a major qualitative difference between regular networks and random networks: in the former, the diameter and CPL increase much faster than in the latter – as a power-law in the former and logarithmically in the latter.
 
@@ -473,3 +473,5 @@ In food webs, on the other hand, we rarely see the FFL motif. The reason is that
 ## 16 — Knowledge Check
 
 See [[sections/16-knowledge-check.pdf]].
+
+[^l05-1]: Possible source issue, see [[lesson-errata#L05-1|errata L05-1]].

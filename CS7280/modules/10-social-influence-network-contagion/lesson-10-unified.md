@@ -190,7 +190,7 @@ Another common variation is the "Asynchronous Linear Threshold" model. In that c
 
 The edge delays can affect the temporal order in which nodes join the activation cascade — but they cannot change the size of the cascade. We will review an application of this model on brain networks at the end of this lesson.
 
-Note: Depending on the literature, the activation threshold model can be greater than or greater than or equal to — this can vary.
+Note: Depending on the literature, the activation threshold model can be greater than or greater than or equal to — this can vary. [^l10-1]
 
 **Food For Thought**
 
@@ -359,7 +359,7 @@ Now that we know how to optimize, at least approximately, monotone and submodula
 
 The fact that the cascade size is monotone is obvious: if we increase the number of initially active nodes, we cannot decrease the size of the cascade.
 
-It is also possible to show that the cascade size is a submodular function, for both the Linear Threshold and the Independent Cascade model. Let us focus on the latter here.
+It is also possible to show that the cascade size is a submodular function, for both the Linear Threshold and the Independent Cascade model. Let us focus on the latter here. [^l10-2]
 
 With the Independent Cascade model, we can first randomly choose for every edge of the network whether it is "live" or "blocked", based on its activation probability.
 
@@ -408,7 +408,7 @@ Suppose that we model the diffusion process with the Linear Threshold Model. To 
 
 ![[img/12-cascade-cluster-example.png|500]]
 
-The visualization shows an example in which the cascade starts from two nodes (nodes 7 and 8). If the threshold $\theta$ is larger than 2/3, the cascade will not expand beyond those initial nodes.
+The visualization shows an example in which the cascade starts from two nodes (nodes 7 and 8). If the threshold $\theta$ is larger than 2/3, the cascade will not expand beyond those initial nodes. [^l10-4]
 
 If $\theta=2/5$, then the cascade in this example will expand to the seven nodes that are highlighted within 3 steps. In the first step, nodes 5 and 10 will become active. In the second step, nodes 4 and 9 will become active. And in the third step, node 6 will become active. The cascade will stop at that point.
 
@@ -516,7 +516,7 @@ Video URL: https://mediaspace.gatech.edu/media/t/1_8n3anwg3
 | temporal disagreement between the activation order of these brain regions. The plot shows  |
 | the results for five animals and five sensory stimulation. Even though the variability  |
 | across animals is considerable, we observe that the percentage of temporal agreement  |
-| pairs average across the five animals is higher than 50 per cent and it varies between 55  |
+| pairs average across the five animals is higher than 50 per cent and it varies between 55 [^l10-3] |
 | to 8% depending on the sensory modality. On the other hand, the corresponding percentage  |
 | of temporal disagreements is less than ten or 20 per cent depending on the stimulation.  |
 | In the rest of the cases, the temporal resolution is not sufficient. This suggests that  |
@@ -536,3 +536,8 @@ Then, we examined an important optimization problem in the context of network di
 We also considered the effect of community structure on the extent of the diffusion process on a network.
 
 Finally, we presented a case study of a network diffusion process on brain networks, in the context of multi-sensory integration.
+
+[^l10-1]: Possible source issue, see [[lesson-errata#L10-1|errata L10-1]].
+[^l10-2]: Possible source issue, see [[lesson-errata#L10-2|errata L10-2]].
+[^l10-3]: Possible source issue, see [[lesson-errata#L10-3|errata L10-3]].
+[^l10-4]: Possible source issue, see [[lesson-errata#L10-4|errata L10-4]].

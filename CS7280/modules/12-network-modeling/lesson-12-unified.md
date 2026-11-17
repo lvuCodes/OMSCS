@@ -542,7 +542,7 @@ $$\log\mathcal{L}(D) = -\sum_{r \in D} L_r R_r \, h(\hat{p}_r)$$
 
 where $h(p)=-p\log p - (1-p)\log(1-p)$.
 
-As an exercise, use this last formula to show that the likelihood of the left dendrogram shown in this visualization is approximately 0.00165. Then, show that the likelihood of the right dendrogram is higher (approximately 0.0433).
+As an exercise, use this last formula to show that the likelihood of the left dendrogram shown in this visualization is approximately 0.00165. Then, show that the likelihood of the right dendrogram is higher (approximately 0.0433). [^l12-1]
 
 **Food For Thought**
 
@@ -605,3 +605,5 @@ When using a network model — or potentially when you design your own network m
 The goal of a model is to create one, or usually many, networks that exhibit certain properties. We can use these networks to examine how the given properties affect the function of those networks. For example, we can examine how a family of networks with power-law degree distribution affect the spread of an epidemic.
 
 There are 100s of network models in the literature — and of course, we could only study a small number of them. Nevertheless, this lesson gave you sufficient background to understand and use any other model you encounter in the future.
+
+[^l12-1]: Possible source issue, see [[lesson-errata#L12-1|errata L12-1]].

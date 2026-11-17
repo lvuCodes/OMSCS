@@ -2,7 +2,7 @@
 
 > Source: Canvas — CS-7280-O01, OAN (Summer 2026)
 
-Combined view of the six graded quiz questions. See also [[lesson04-quiz-all.pdf]].
+Combined view of the six graded quiz questions. See also [[lesson04-quiz-all.pdf]]. The answer key is in [[lesson04-quiz-answers]].
 
 ---
 

@@ -230,7 +230,7 @@ where $k^{int}$ is the average number of internal connections in a community and
 
 If $\mu$ is close to 0 almost all connections are internal and the community is very clearly separated.
 
-As $\mu$ increases, the community structure becomes weaker. After $\mu$ is greater than 0.5, it is more likely to see external connections than internal, meaning that there is no community structure.
+As $\mu$ increases, the community structure becomes weaker. After $\mu$ is greater than 0.5, it is more likely to see external connections than internal, meaning that there is no community structure. [^l08-1]
 
 The visualization shows a GN network with 128 nodes, four communities, and 32 nodes per community when $\mu$ is 40%.
 
@@ -326,7 +326,7 @@ Let's now compare some of the community detection algorithms we have seen so far
 
 In the previous lesson, we covered the Girvan-Newman algorithm *(top-down hierarchical clustering based on the edge betweenness centrality metric)*, the Ravasz algorithm *(agglomerative hierarchical clustering)*, the greedy modularity optimization algorithm, and the Louvain algorithm *(also based on modularity optimization)*. The plots also show results for Infomap, which is an algorithm that is based on the maximization of an information-theoretic metric of community structure rather than modularity.
 
-The comparisons use the NMI metric, and the two benchmarks we introduced earlier: GN and LFR. Recall that the parameter $\mu$ quantifies the strength of the community structure in the network – when $\mu < 0.5$ the network has clearly separated communities, while $\mu$ is close to 1 there is no real community structure.
+The comparisons use the NMI metric, and the two benchmarks we introduced earlier: GN and LFR. Recall that the parameter $\mu$ quantifies the strength of the community structure in the network – when $\mu < 0.5$ the network has clearly separated communities, while $\mu$ is close to 1 there is no real community structure. [^l08-1-2]
 
 The benchmark parameters are $N=1{,}000$ nodes, average degree $\bar{k}=20$, degree exponent (LFR) $\gamma=2$, maximum degree (LFR) $k_{max}=50$, community size exponent (LFR) $\zeta=1$, maximum community size (LFR) 100, minimum community size (LFR) 20. Each curve is averaged over 25 independent realizations.
 
@@ -361,7 +361,7 @@ Remember however that most networks are sparse in practice – and these are onl
 
 These plots quantify the empirical run-time of the previous community detection algorithms for three small/medium network datasets. The y-axis values are in seconds.
 
-As expected, the fastest algorithm is Louvain. Surprisingly, even though the CFinder algorithm has an exponential worst-case run-time, it performs quite competitively in practice. The Newman-Girvan algorithm is the slowest among the seven algorithms.
+As expected, the fastest algorithm is Louvain. Surprisingly, even though the CFinder algorithm has an exponential worst-case run-time, it performs quite competitively in practice. The Newman-Girvan algorithm is the slowest among the seven algorithms. [^l08-3]
 
 **Food for Thought**
 
@@ -464,7 +464,7 @@ $$P_i = 1 - \sum_{s=1}^{n_c} \left(\frac{k_{i,s}}{k_i}\right)^2$$
 
 Note that if all the connections of node $i$ are with other nodes in its own community, we have that $P_i = 0$. An example of such a node is the highlighted node at module-two in the visualization.
 
-On the other hand, if the connections of node $i$ are uniformly distributed with all $n_c$ communities, the participation coefficient will be close to 1. This is the case with the highlighted node at module-three in the visualization.
+On the other hand, if the connections of node $i$ are uniformly distributed with all $n_c$ communities, the participation coefficient will be close to 1. This is the case with the highlighted node at module-three in the visualization. [^l08-2]
 
 The (loose) upper bound $P_i = 1$ is approached for nodes with very large degree $k_i$, if their connections are uniformly spread to all $n_c$ communities.
 
@@ -622,3 +622,8 @@ It also has many applications in a wide spectrum of disciplines, making it an ex
 ## 23 — Knowledge Check
 
 See [[lesson08-knowledge-check]] for the ungraded knowledge check questions.
+
+[^l08-1]: Possible source issue, see [[lesson-errata#L08-1|errata L08-1]].
+[^l08-1-2]: Possible source issue, see [[lesson-errata#L08-1|errata L08-1]].
+[^l08-2]: Possible source issue, see [[lesson-errata#L08-2|errata L08-2]].
+[^l08-3]: Possible source issue, see [[lesson-errata#L08-3|errata L08-3]].

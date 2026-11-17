@@ -20,15 +20,15 @@ Students will:
 
 **Required Reading**
 
-- *Sampling and estimation in network graphs*, by Eric D. Kolaczyk, 2009 (Chapter 5 of *Statistical Analysis of Network Data: Methods and Models*) — see [[kolaczyk-mm-ch05.pdf|local copy]].
+- *Sampling and estimation in network graphs*, by Eric D. Kolaczyk, 2009 (Chapter 5 of *Statistical Analysis of Network Data: Methods and Models*) — see [[kolaczyk_methods_ch05.pdf|local copy]].
 - *Network inference with confidence from multivariate time series*, by Mark Kramer et al., 2009 — see [[network-inference-confidence-multivariate-time-series.pdf|local copy]].
-- *Network topology inference*, by Eric D. Kolaczyk, 2009 (Chapter 7 of *Statistical Analysis of Network Data: Methods and Models*) — see [[kolaczyk-mm-ch07.pdf|local copy]].
+- *Network topology inference*, by Eric D. Kolaczyk, 2009 (Chapter 7 of *Statistical Analysis of Network Data: Methods and Models*) — see [[kolaczyk_methods_ch07.pdf|local copy]].
 
 **Recommended Reading**
 
 - *What is the real size of a sampled network? The case of the Internet* by Fabien Viger et al., 2007 — see [[real-size-of-sampled-network-internet.pdf|local copy]].
 
-> Applied companion reference: Kolaczyk & Csárdi, *Statistical Analysis of Network Data with R* — shelved in the course textbook library, split by chapter (see [[kolaczyk-r-all.pdf|full book]]; Ch 7 "Network Topology Inference" is the L13-relevant chapter, [[kolaczyk-r-ch07.pdf|local copy]]).
+> Applied companion reference: Kolaczyk & Csárdi, *Statistical Analysis of Network Data with R* — shelved in the course textbook library, split by chapter (see [[kolaczyk_r_all.pdf|full book]]; Ch 7 "Network Topology Inference" is the L13-relevant chapter, [[kolaczyk_r_ch07.pdf|local copy]]).
 
 ### Assignments
 
@@ -242,7 +242,7 @@ Compare this with the average-degree estimate under single-stage snowball sampli
 
 $$\bar{k}_{\mbox{star-sampling}} = \frac{2}{N} \left( \frac{1}{2}\sum_{i \in S}\frac{k_i}{n/N} \right)=\frac{2 \, |E^*|}{n}$$
 
-The induced-subgraph estimator differs from the star-sampling estimator by a factor $\frac{N-1}{n-1}$, which corrects for the extent to which the degree of each node is under-sampled when we use induced subgraph sampling.
+The induced-subgraph estimator differs from the star-sampling estimator by a factor $\frac{N-1}{n-1}$, which corrects for the extent to which the degree of each node is under-sampled when we use induced subgraph sampling. [^l13-3]
 
 **Food For Thought**
 
@@ -502,3 +502,5 @@ Here is a list of other topics in the statistical analysis of network data:
 - Efficient algorithms for the computation of centrality metrics and communities
 
 In parallel, some of these problems are also pursued by the Machine Learning community, as we will see in the next lesson.
+
+[^l13-3]: Possible source issue, see [[lesson-errata#L13-3|errata L13-3]].

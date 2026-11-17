@@ -2,7 +2,7 @@
 
 > Source: Canvas — CS-7280-O01, OAN (Summer 2026)
 
-Ungraded knowledge check. See also [[lesson07-knowledge-check.pdf]].
+Ungraded knowledge check. See also [[lesson07-knowledge-check.pdf]]. Answer key: [[lesson07-knowledge-check-answers]].
 
 ---
 

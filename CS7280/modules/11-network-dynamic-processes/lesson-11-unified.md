@@ -555,7 +555,7 @@ A necessary condition for the onset of complete synchronization is that
 
 $$K \geq K_c = \frac{2}{\pi \Omega}$$
 
-This visualization shows numerical results from simulations with $N=100$ oscillators in which the average angular frequency is $\Omega=4$ rads/sec, and $K_c \approx 0.16$.
+This visualization shows numerical results from simulations with $N=100$ oscillators in which the average angular frequency is $\Omega=4$ rads/sec, and $K_c \approx 0.16$. [^l11-1]
 
 **Food For Thought**
 
@@ -732,3 +732,5 @@ There are many more network dynamical processes that have been studied in the li
 - **Network games:** if we think of each node as a "rational agent", what happens to the entire network if each node optimizes its connections to maximize a "selfish" objective? (e.g., minimize the number of connections while being within a short distance from every other node)
 
 In all these problems, the common question that network science focuses on is the following: how does the structure of the network affect the dynamic process that is taking place on the network? And if the network is adaptive, how does this dynamic process affect the structure of the network? The structure and the function of a network are always intertwined — and the link between the two always relates to dynamic network processes.
+
+[^l11-1]: Possible source issue, see [[lesson-errata#L11-1|errata L11-1]].

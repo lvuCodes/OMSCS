@@ -316,7 +316,7 @@ So, we can define the modularity metric based on the difference between the actu
 
 $$M = \frac{1}{2L} \sum_{c=1}^C \sum_{(i,j) \in C_c} \left(A_{i,j} - \frac{k_i k_j}{2L}\right)$$
 
-We divided by the total number of edges $L$, so that $M$ is always less than 1.
+We divided by the total number of edges $L$, so that $M$ is always less than 1. [^l07-1]
 
 Note that the modularity metric does not directly penalize any external edges, i.e., there is no term in this equation that decreases the modularity for every external edge between two communities. The more external edges exist however, the lower is the sum of the internal edges, while the sum of the expected number of random edges remains constant. In other words, the modularity metric indirectly selects community assignments that have more internal edges and fewer external edges.
 
@@ -539,7 +539,7 @@ To simplify, suppose that the total degree of each community is $\kappa_l$. Base
 
 $$\Delta M_{AB} = \frac{1}{L} - \frac{\kappa_l^2}{2 L^2} = \frac{1}{L}\left(1 - \left(\frac{\kappa_l}{2L}\right)^2\right)$$
 
-So, the merging of the two small communities will take place if $\Delta M_{AB} > 0$ which is equivalent to $\kappa_l < \sqrt{2 L}$.
+So, the merging of the two small communities will take place if $\Delta M_{AB} > 0$ which is equivalent to $\kappa_l < \sqrt{2 L}$. [^l07-2]
 
 In other words, a modularity maximization algorithm will always merge two communities if the total degree of each of those communities is smaller than the critical value $\sqrt{2 L}$.
 
@@ -602,7 +602,7 @@ Nevertheless, the deterministic structure of this toy network allows us to deriv
 
 $$C(k) \approx \frac{2}{k}$$
 
-We will not show the derivation here – it is simple however and you can find it in your textbook.
+We will not show the derivation here – it is simple however and you can find it in your textbook. [^l07-3]
 
 This is an interesting *"signature"* for this hierarchically modular network – the more connected a node is, the less interconnected its neighbors are. This is very different than random networks, without any community structure, in which the clustering coefficient is independent of the degree.
 
@@ -620,7 +620,7 @@ The visualization shows plots of the node clustering coefficient $C(k)$ versus n
 
 The green dots refer to a corresponding degree-preserving randomized network – this is an important step of the analysis because by randomizing the network connections *(without changing the degree distribution)*, we remove the community structure of the original network from the randomized network.
 
-The black dotted line corresponds to the relation $C(k) = 1/k$. As we saw in the previous page, this is the slope of $C(k)$ versus $k$ in the deterministic hierarchically modular network that we saw earlier.
+The black dotted line corresponds to the relation $C(k) = 1/k$. As we saw in the previous page, this is the slope of $C(k)$ versus $k$ in the deterministic hierarchically modular network that we saw earlier. [^l07-3-2]
 
 Note that some networks, such as the network of scientific collaborations or the citation network show clearly an inverse relation between $C(k)$ and $k$, especially for nodes with degree $k > 10$. Further, when we randomize the connections of those networks, removing the community structure, $C(k)$ becomes independent of $k$. So, we expect that such networks exhibit a hierarchically modular structure.
 
@@ -663,3 +663,8 @@ In the subsequent lesson, we will cover more advanced topics of community detect
 ## 19 — Knowledge Check
 
 See [[lesson07-knowledge-check]] for the ungraded knowledge check questions.
+
+[^l07-1]: Possible source issue, see [[lesson-errata#L07-1|errata L07-1]].
+[^l07-2]: Possible source issue, see [[lesson-errata#L07-2|errata L07-2]].
+[^l07-3]: Possible source issue, see [[lesson-errata#L07-3|errata L07-3]].
+[^l07-3-2]: Possible source issue, see [[lesson-errata#L07-3|errata L07-3]].

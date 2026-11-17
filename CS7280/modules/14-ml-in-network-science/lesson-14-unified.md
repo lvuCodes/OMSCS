@@ -234,7 +234,7 @@ To compute all parameters — the encoder ($\mathbf{W}_k, \mathbf{B}_k$ for $k=1
 
 $$\mathcal{L}=-\sum_{v \in V'} \left[y_v \log\left(\sigma(\mathbf{z}_v^T \mathbf{D})\right) + (1-y_v) \log\left(1-\sigma(\mathbf{z}_v^T \mathbf{D})\right)\right]$$
 
-When the softmax output is close to the actual class ($y_v \approx \sigma(\mathbf{z}_v^T \mathbf{D})$), node $v$ contributes almost 0 to the loss; when the model predicts the wrong class ($y_v + \sigma(\mathbf{z}_v^T \mathbf{D}) \approx 1$), it contributes significantly. The optimization is non-convex, so training relies on numerical methods such as Stochastic Gradient Descent (SGD).
+When the softmax output is close to the actual class ($y_v \approx \sigma(\mathbf{z}_v^T \mathbf{D})$), node $v$ contributes almost 0 to the loss; when the model predicts the wrong class ($y_v + \sigma(\mathbf{z}_v^T \mathbf{D}) \approx 1$), it contributes significantly. The optimization is non-convex, so training relies on numerical methods such as Stochastic Gradient Descent (SGD). [^l14-1]
 
 ![[img/06-gnn-training-2.png|500]]
 
@@ -405,3 +405,5 @@ Video URL: https://mediaspace.gatech.edu/media/t/1_kuhh5ij6
 | interesting new applications at your work or research, I would love to hear from you in  |
 | the future about the challenges that you faced and the practical value of your results.  |
 | Please think that and never stop learning. [MUSIC] |
+
+[^l14-1]: Possible source issue, see [[lesson-errata#L14-1|errata L14-1]].

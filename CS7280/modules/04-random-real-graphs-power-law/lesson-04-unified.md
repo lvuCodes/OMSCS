@@ -220,7 +220,7 @@ This plot visualizes the same distribution, $p_k = c' (k + k_0)^{-\alpha}$, with
 The four plots are:
 
 - linear-linear scale. This is clearly a bad way to plot a power-law distribution.
-- log-log scale but with linear binning (the bin width of the histogram increases linearly with $k$). This is also not an appropriate approach because the bins of the histogram for high values of $k$ are quite narrow and they often include 0 or 1 measurements, creating the "plateau" that you see at the tail of the distribution.
+- log-log scale but with linear binning (the bin width of the histogram increases linearly with $k$). This is also not an appropriate approach because the bins of the histogram for high values of $k$ are quite narrow and they often include 0 or 1 measurements, creating the "plateau" that you see at the tail of the distribution. [^l04-2]
 - log-log scale but with logarithmic binning (the bin width of the histogram increases exponentially with $k$). Note how the tail of the distribution drops almost linearly with $k$ when the degree is higher than about 50-100. A potential issue with this approach is that we still need to figure out how fast to increase the bin width with $k$.
 - the Complementary Cumulative Distribution Function (C-CDF), which shows the probability $P_k$ that the degree is higher or equal than $k$ (all previous plots show the probability $p_k$ that the degree is equal to $k$). This is the best approach because we do not need to determine an appropriate sequence of bin-widths. Please note however that the slope of the C-CDF is not the same as the slope of the degree distribution. In this example, $\alpha = 2.5$ and so the exponent of the C-CDF is 1.5.
 
@@ -276,7 +276,7 @@ This means that the maximum degree in a power-law network increases as a power-l
 
 In the more extreme case that $\alpha = 2$ the maximum degree increases linearly with $n$.
 
-To put these numbers in perspective, consider a network with one million nodes, and an average degree of $\bar{k} = 3$. If the network follows the exponential degree distribution, the maximum expected degree is only about 10 – not much larger than the average degree.
+To put these numbers in perspective, consider a network with one million nodes, and an average degree of $\bar{k} = 3$. If the network follows the exponential degree distribution, the maximum expected degree is only about 10 – not much larger than the average degree. [^l04-1]
 
 If the network follows the power-law degree distribution with exponent $\alpha = 2.5$ (recall that this is a typical value for many real-world networks), we get that the maximum degree is about 10,000!
 
@@ -436,7 +436,7 @@ To answer the first question, let us consider the case of networks of sexual par
 
 The plot at the left is the C–CDF for the number of partners of each individual during the last 12 months, shown separately for men and women. Note that the distributions drop roughly linearly in the log-log scale plot, suggesting the presence of a power-law distribution (at least in the range from 2 to 20).
 
-The plot at the right is the corresponding C-CDF but this time for the entire lifetime of each individual. As expected, the range of the distribution now extends to a wider range (up to 100 partners for women and 1000 for men). Note the low-degree saturation effect we discussed earlier in this lesson, especially for less than 10 partners. The exponent of the C-CDF distributions is $\alpha_{tot} = 2.1 \pm 0.3$ for women (in the range $k_{tot} > 20$), and $\alpha_{tot} = 1.6 \pm 0.3$ for men (in the range $20 < k_{tot} < 400$). Estimates for females and males agree within statistical uncertainty. Note that these exponents refer to the C-CDF – so the corresponding exponents for the degree distributions would be, on average, 3.1 for women and 2.6 for men.
+The plot at the right is the corresponding C-CDF but this time for the entire lifetime of each individual. As expected, the range of the distribution now extends to a wider range (up to 100 partners for women and 1000 for men). Note the low-degree saturation effect we discussed earlier in this lesson, especially for less than 10 partners. The exponent of the C-CDF distributions is $\alpha_{tot} = 2.1 \pm 0.3$ for women (in the range $k_{tot} > 20$), and $\alpha_{tot} = 1.6 \pm 0.3$ for men (in the range $20 < k_{tot} < 400$). Estimates for females and males agree within statistical uncertainty. Note that these exponents refer to the C-CDF – so the corresponding exponents for the degree distributions would be, on average, 3.1 for women and 2.6 for men. [^l04-3]
 
 These exponent values suggest that, at least for men, the corresponding network of sexual contacts would have a power-law distribution with very high variability (theoretically, "infinite variance"). The distribution also shows the presence of hubs: individuals with hundreds of partners during their lifetime. The wide variability in this distribution justifies targeted intervention approaches that aim to identify the "hub individuals" and provide them with additional information, resources (such as condoms or treatment), and when available, vaccination.
 
@@ -483,3 +483,7 @@ Because real networks with power-law degree distributions are the ones that occu
 ## L4: Knowledge Check
 
 See [[17-knowledge-check.pdf]] for the Knowledge Check questions and answers.
+
+[^l04-1]: Possible source issue, see [[lesson-errata#L04-1|errata L04-1]].
+[^l04-2]: Possible source issue, see [[lesson-errata#L04-2|errata L04-2]].
+[^l04-3]: Possible source issue, see [[lesson-errata#L04-3|errata L04-3]].

@@ -5,7 +5,7 @@
 
 ---
 
-## [Welcome](00a-welcome/00-welcome-unified.md)
+## [Welcome](00a-welcome-unified.md)
 
 1. [Step 1: Start Here](00a-welcome/01-start-here.md)
 2. [Step 2: Enroll in Discussion Forum](00a-welcome/02-enroll-discussion-forum.md)
