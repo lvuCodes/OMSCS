@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="98pt" viewbox="0.00 0.00 188.40 98.20" width="188pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <g class="graph" id="graph0" transform="scale(1 1) rotate(0) translate(4 94.2)"><title>%3</title>
+<polygon fill="white" points="-4,4 -4,-94.2 184.4,-94.2 184.4,4 -4,4" stroke="transparent"></polygon> <g class="node" id="node1"><title>C</title>
+<ellipse cx="90.2" cy="-72.2" fill="none" rx="18" ry="18" stroke="black"></ellipse> <text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="90.2" y="-68.5">C</text> </g> <g class="node" id="node2"><title>F</title>
+<ellipse cx="162.4" cy="-45.2" fill="none" rx="18" ry="18" stroke="black"></ellipse> <text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="162.4" y="-41.5">F</text> </g> <g class="edge" id="edge1"><title>C-&gt;F</title>
+<path d="M107.13,-66.07C115.53,-62.84 126.06,-58.79 135.59,-55.12" fill="none" stroke="black"></path><polygon fill="black" points="136.97,-58.34 145.04,-51.49 134.45,-51.81 136.97,-58.34" stroke="black"></polygon> </g> <g class="node" id="node3"><title>D</title>
+<ellipse cx="90.2" cy="-18.2" fill="none" rx="18.4" ry="18.4" stroke="black"></ellipse> <text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="90.2" y="-14.5">D</text> </g> <g class="edge" id="edge2"><title>D-&gt;F</title>
+<path d="M107.48,-24.46C115.9,-27.7 126.36,-31.72 135.83,-35.36" fill="none" stroke="black"></path><polygon fill="black" points="134.61,-38.65 145.2,-38.97 137.13,-32.11 134.61,-38.65" stroke="black"></polygon> </g> <g class="node" id="node4"><title>E</title>
+<ellipse cx="18" cy="-18.2" fill="none" rx="18" ry="18" stroke="black"></ellipse> <text font-family="Times,serif" font-size="14.00" text-anchor="middle" x="18" y="-14.5">E</text> </g> <g class="edge" id="edge3"><title>E-&gt;D</title>
+<path d="M36.35,-18.2C43.89,-18.2 52.91,-18.2 61.34,-18.2" fill="none" stroke="black"></path><polygon fill="black" points="61.56,-21.7 71.56,-18.2 61.56,-14.7 61.56,-21.7" stroke="black"></polygon> </g> </g> </svg>
