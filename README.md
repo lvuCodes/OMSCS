@@ -28,6 +28,14 @@ of any kind** — it is a pure reference repository.
 | Directory | Course | Semester |
 |-----------|--------|----------|
 | [CS6300](CS6300/) | Software Development Process | Spring 2026 |
+| [CS7280](CS7280/) | Network Science | Summer 2026 |
+
+---
+
+## Program Reference
+
+- [available-courses](available-courses/): course descriptions and past syllabi for every Fall 2026 OMSCS course.
+- [specialization-overlaps.md](specialization-overlaps.md): courses that count toward more than one specialization, as core or elective.
 
 ---
 
