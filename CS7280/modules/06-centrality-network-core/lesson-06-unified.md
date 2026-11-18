@@ -35,7 +35,33 @@ Students will be able to:
 
 ### Video: Introduction to Centrality and Network-core Metrics and Algorithms
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:11)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:11 to 00:28)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:28 to 00:36)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
+
+#### Part 4 (00:36 to 00:50)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt04.mp4]]
+
+#### Part 5 (00:50 to 01:05)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt05.mp4]]
+
+#### Part 6 (01:05 to 01:19)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt06.mp4]]
+
+#### Part 7 (01:19 to 01:30)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt07.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_n5ob0mg6
 
@@ -281,7 +307,17 @@ We claim that the k-core decomposition approach can rank nodes in terms of impor
 
 ### Video: Core-periphery Structure
 
-[[sections/08-core-periphery-structure.mp4]]
+#### Part 1 (00:00 to 01:00)
+
+[[sections/08-core-periphery-structure/08-core-periphery-structure_pt01.mp4]]
+
+#### Part 2 (01:00 to 01:47)
+
+[[sections/08-core-periphery-structure/08-core-periphery-structure_pt02.mp4]]
+
+#### Part 3 (01:47 to 01:55)
+
+[[sections/08-core-periphery-structure/08-core-periphery-structure_pt03.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_ya47cr27
 
@@ -361,7 +397,29 @@ You can find additional details about the *C. Elegans* network analysis mentione
 
 ### Video: Applications
 
-[[sections/11-applications.mp4]]
+#### Part 1 (00:00 to 00:45)
+
+[[sections/11-applications/11-applications_pt01.mp4]]
+
+#### Part 2 (00:45 to 01:38)
+
+[[sections/11-applications/11-applications_pt02.mp4]]
+
+#### Part 3 (01:38 to 03:05)
+
+[[sections/11-applications/11-applications_pt03.mp4]]
+
+#### Part 4 (03:05 to 04:16)
+
+[[sections/11-applications/11-applications_pt04.mp4]]
+
+#### Part 5 (04:16 to 05:10)
+
+[[sections/11-applications/11-applications_pt05.mp4]]
+
+#### Part 6 (05:10 to 05:31)
+
+[[sections/11-applications/11-applications_pt06.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_stfg3mka
 
