@@ -34,7 +34,29 @@ Students will be able to:
 
 ### Video: Introduction to Network Modeling
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:17)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:17 to 00:32)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:32 to 00:46)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
+
+#### Part 4 (00:46 to 01:02)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt04.mp4]]
+
+#### Part 5 (01:02 to 01:14)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt05.mp4]]
+
+#### Part 6 (01:14 to 01:26)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt06.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_ipufk3x3
 
