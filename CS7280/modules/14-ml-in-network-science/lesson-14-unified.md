@@ -34,7 +34,29 @@ Students will:
 
 ### Video: Introduction to Machine Learning in Network Science
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:21)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:21 to 00:38)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:38 to 00:49)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
+
+#### Part 4 (00:49 to 00:59)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt04.mp4]]
+
+#### Part 5 (00:59 to 01:16)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt05.mp4]]
+
+#### Part 6 (01:16 to 01:32)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt06.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_uzy8bmgv
 
@@ -252,7 +274,21 @@ This section presents a research application of graph neural networks: predictin
 
 ### Video: Application: Polypharmacy
 
-[[sections/07-application-polypharmacy.mp4]]
+#### Part 1 (00:00 to 01:34)
+
+[[sections/07-application-polypharmacy/07-application-polypharmacy_pt01.mp4]]
+
+#### Part 2 (01:34 to 03:22)
+
+[[sections/07-application-polypharmacy/07-application-polypharmacy_pt02.mp4]]
+
+#### Part 3 (03:22 to 05:05)
+
+[[sections/07-application-polypharmacy/07-application-polypharmacy_pt03.mp4]]
+
+#### Part 4 (05:05 to 05:58)
+
+[[sections/07-application-polypharmacy/07-application-polypharmacy_pt04.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_vi6ubgbl
 
@@ -392,7 +428,17 @@ The last part of this lesson also mentioned other state-of-the-art topics (inter
 
 ### Video: A Final Note
 
-[[sections/12-a-final-note.mp4]]
+#### Part 1 (00:00 to 00:20)
+
+[[sections/12-a-final-note/12-a-final-note_pt01.mp4]]
+
+#### Part 2 (00:20 to 00:36)
+
+[[sections/12-a-final-note/12-a-final-note_pt02.mp4]]
+
+#### Part 3 (00:36 to 00:46)
+
+[[sections/12-a-final-note/12-a-final-note_pt03.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_kuhh5ij6
 
