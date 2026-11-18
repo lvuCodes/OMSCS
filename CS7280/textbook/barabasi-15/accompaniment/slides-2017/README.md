@@ -99,15 +99,22 @@ An earlier full-resolution export had split two of these decks into `_part-0X.pd
 
 ## Split Files
 
-Files over 50MB are stored as 45MB byte-split parts in a subfolder named for the file's stem, so each part stays under GitHub's 100MB file limit. The whole copy is kept locally as `<stem>_original.<ext>` and is gitignored. Reassemble from this folder with `cat <folder>/<stem>/<stem>_pt*.part > <folder>/<stem>.<ext>`, for example `cat chapter03_random-networks/erdos/erdos_pt*.part > chapter03_random-networks/erdos.mov`.
+Files over 30 MB are split into parts under 20 MB, in a subfolder named for the file's stem, so each part stays under the repository's 30 MB file limit. The whole copy is kept locally as `<stem>_original.<ext>` and is gitignored.
+
+- **Slide decks** are byte-split into `.part` files. Reassemble from this folder with `cat <folder>/<stem>/<stem>_pt*.part > <folder>/<stem>.pptx`, for example `cat chapter08_robustness/2016_class08-error-attack/2016_class08-error-attack_pt*.part > chapter08_robustness/2016_class08-error-attack.pptx`.
+- **Movies** were re-encoded to HEVC on 2026-11-17, then split into playable `.mp4` parts at keyframes. Movies with speech are cut at sentence ends. Decks that embed a movie by name need the `_original` copy restored to that name.
+- **Short clips** `clip3.mov`, `Vespignani-VirusSimulation-Tree.mov` and `chapter10_spreading-processes/mms.mp4` (formerly `mms.avi`) were re-encoded to HEVC and fit under the limit unsplit.
 
 | Folder | File | Parts |
 |---|---|---|
-| (root) | `Background-Rete-preview.mov` | 5 |
+| (root) | `Background-Rete-preview.mov` | 2 |
 | chapter02_graph-theory | `MAURO-HumanPPI-Tedmed.mov` | 2 |
 | chapter03_random-networks | `erdos.mov` | 3 |
-| chapter03_random-networks | `erdossaund.mov` | 4 |
-| chapter04_scale-free-property | `2016_class04-sf.pptx` | 2 |
-| chapter04_scale-free-property | `2016_class04-sf-questions.pptx` | 2 |
-| chapter07_degree-correlations | `2017_class-degree-correlations.pptx` | 2 |
-| chapter10_spreading-processes | `2016_class10-spreading-questions-format.pptx` | 5 |
+| chapter03_random-networks | `erdossaund.mov` | 8 |
+| chapter04_scale-free-property | `2016_class04-sf.pptx` | 3 |
+| chapter04_scale-free-property | `2016_class04-sf-questions.pptx` | 3 |
+| chapter07_degree-correlations | `2016_class-degree-correlations.pptx` | 3 |
+| chapter07_degree-correlations | `2017_class-degree-correlations.pptx` | 4 |
+| chapter08_robustness | `2016_class08-error-attack.pptx` | 2 |
+| chapter09_communities | `2017_class-community-structure.pptx` | 2 |
+| chapter10_spreading-processes | `2016_class10-spreading-questions-format.pptx` | 11 |
