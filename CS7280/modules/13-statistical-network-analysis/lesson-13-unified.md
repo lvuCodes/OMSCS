@@ -37,7 +37,33 @@ Students will:
 
 ### Video: Introduction to Statistical Analysis of Network Data
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:14)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:14 to 00:28)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:28 to 00:46)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
+
+#### Part 4 (00:46 to 01:00)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt04.mp4]]
+
+#### Part 5 (01:00 to 01:14)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt05.mp4]]
+
+#### Part 6 (01:14 to 01:22)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt06.mp4]]
+
+#### Part 7 (01:22 to 01:33)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt07.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_xlezoow0
 
@@ -426,7 +452,25 @@ b) The inference method here is hierarchical clustering. Can you think of other 
 
 ### Video: Other Network Tomography Problems
 
-[[sections/11-other-network-estimation-and-tomography-problems.mp4]]
+#### Part 1 (00:00 to 01:41)
+
+[[sections/11-other-network-estimation-and-tomography-problems/11-other-network-estimation-and-tomography-problems_pt01.mp4]]
+
+#### Part 2 (01:41 to 03:13)
+
+[[sections/11-other-network-estimation-and-tomography-problems/11-other-network-estimation-and-tomography-problems_pt02.mp4]]
+
+#### Part 3 (03:13 to 04:18)
+
+[[sections/11-other-network-estimation-and-tomography-problems/11-other-network-estimation-and-tomography-problems_pt03.mp4]]
+
+#### Part 4 (04:18 to 05:44)
+
+[[sections/11-other-network-estimation-and-tomography-problems/11-other-network-estimation-and-tomography-problems_pt04.mp4]]
+
+#### Part 5 (05:44 to 05:53)
+
+[[sections/11-other-network-estimation-and-tomography-problems/11-other-network-estimation-and-tomography-problems_pt05.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_ldfgrmjd
 
