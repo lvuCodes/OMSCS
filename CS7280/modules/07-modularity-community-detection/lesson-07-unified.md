@@ -28,7 +28,33 @@ Students will be able to:
 
 ### Video: Introduction to Modularity and Community Detection
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:18)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:18 to 00:33)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:33 to 00:39)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
+
+#### Part 4 (00:39 to 00:57)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt04.mp4]]
+
+#### Part 5 (00:57 to 01:10)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt05.mp4]]
+
+#### Part 6 (01:10 to 01:25)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt06.mp4]]
+
+#### Part 7 (01:25 to 01:35)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt07.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_nspohts0
 
@@ -102,7 +128,17 @@ Video URL: https://mediaspace.gatech.edu/media/t/1_rnycjiyx
 
 ### Video: Modular Networks: The Adjacency Matrix View
 
-[[sections/02-modular-networks-adjacency-matrix-view.mp4]]
+#### Part 1 (00:00 to 01:26)
+
+[[sections/02-modular-networks-adjacency-matrix-view/02-modular-networks-adjacency-matrix-view_pt01.mp4]]
+
+#### Part 2 (01:26 to 02:31)
+
+[[sections/02-modular-networks-adjacency-matrix-view/02-modular-networks-adjacency-matrix-view_pt02.mp4]]
+
+#### Part 3 (02:31 to 02:42)
+
+[[sections/02-modular-networks-adjacency-matrix-view/02-modular-networks-adjacency-matrix-view_pt03.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_cjbirgdr
 
@@ -137,7 +173,13 @@ Video URL: https://mediaspace.gatech.edu/media/t/1_cjbirgdr
 
 ### Video: Example Network Communities: Zachary's Karate Club
 
-[[sections/02-zacharys-karate-club.mp4]]
+#### Part 1 (00:00 to 01:10)
+
+[[sections/02-zacharys-karate-club/02-zacharys-karate-club_pt01.mp4]]
+
+#### Part 2 (01:10 to 02:06)
+
+[[sections/02-zacharys-karate-club/02-zacharys-karate-club_pt02.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_ur18rgh0
 
@@ -557,7 +599,17 @@ How would you try to avoid the modularity resolution issue -- and try to discove
 
 ### Video: The Modularity Search Landscape
 
-[[sections/14-modularity-search-landscape.mp4]]
+#### Part 1 (00:00 to 01:03)
+
+[[sections/14-modularity-search-landscape/14-modularity-search-landscape_pt01.mp4]]
+
+#### Part 2 (01:03 to 01:51)
+
+[[sections/14-modularity-search-landscape/14-modularity-search-landscape_pt02.mp4]]
+
+#### Part 3 (01:51 to 02:08)
+
+[[sections/14-modularity-search-landscape/14-modularity-search-landscape_pt03.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_0mxjiqci
 
