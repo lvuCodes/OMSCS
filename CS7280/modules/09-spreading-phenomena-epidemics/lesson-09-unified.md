@@ -8,7 +8,37 @@ Throughout the lecture, we are giving you some "food for thought" -- these are q
 
 ### Video: Introduction to Spreading Phenomena on Networks and Epidemics
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:11)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:11 to 00:27)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:27 to 00:44)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
+
+#### Part 4 (00:44 to 01:01)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt04.mp4]]
+
+#### Part 5 (01:01 to 01:17)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt05.mp4]]
+
+#### Part 6 (01:17 to 01:34)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt06.mp4]]
+
+#### Part 7 (01:34 to 01:41)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt07.mp4]]
+
+#### Part 8 (01:41 to 01:55)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt08.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_2k1t0d55
 
@@ -41,7 +71,17 @@ You may wonder: why study epidemics in a network science course? The pathogens t
 
 ### Video: Various Classes of Epidemic Models
 
-[[sections/01-various-classes-of-epidemic-models.mp4]]
+#### Part 1 (00:00 to 01:21)
+
+[[sections/01-various-classes-of-epidemic-models/01-various-classes-of-epidemic-models_pt01.mp4]]
+
+#### Part 2 (01:21 to 02:15)
+
+[[sections/01-various-classes-of-epidemic-models/01-various-classes-of-epidemic-models_pt02.mp4]]
+
+#### Part 3 (02:15 to 02:40)
+
+[[sections/01-various-classes-of-epidemic-models/01-various-classes-of-epidemic-models_pt03.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_92wh1sky
 
