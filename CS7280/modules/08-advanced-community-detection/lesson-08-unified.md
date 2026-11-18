@@ -35,7 +35,29 @@ Students will be able to:
 
 ### Video: Introduction to Advanced Topics in Community Detection
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:14)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:14 to 00:30)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:30 to 00:41)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
+
+#### Part 4 (00:41 to 00:50)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt04.mp4]]
+
+#### Part 5 (00:50 to 01:08)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt05.mp4]]
+
+#### Part 6 (01:08 to 01:15)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt06.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_czeghdh2
 
@@ -62,7 +84,17 @@ Video URL: https://mediaspace.gatech.edu/media/t/1_czeghdh2
 
 ### Video: Overlapping Communities
 
-[[sections/01-overlapping-communities.mp4]]
+#### Part 1 (00:00 to 00:43)
+
+[[sections/01-overlapping-communities/01-overlapping-communities_pt01.mp4]]
+
+#### Part 2 (00:43 to 01:14)
+
+[[sections/01-overlapping-communities/01-overlapping-communities_pt02.mp4]]
+
+#### Part 3 (01:14 to 01:40)
+
+[[sections/01-overlapping-communities/01-overlapping-communities_pt03.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_9374ioya
 
@@ -88,7 +120,17 @@ Video URL: https://mediaspace.gatech.edu/media/t/1_9374ioya
 
 ### Video: CFinder Algorithm
 
-[[sections/01-cfinder-algorithm.mp4]]
+#### Part 1 (00:00 to 01:44)
+
+[[sections/01-cfinder-algorithm/01-cfinder-algorithm_pt01.mp4]]
+
+#### Part 2 (01:44 to 02:53)
+
+[[sections/01-cfinder-algorithm/01-cfinder-algorithm_pt02.mp4]]
+
+#### Part 3 (02:53 to 03:23)
+
+[[sections/01-cfinder-algorithm/01-cfinder-algorithm_pt03.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_06hev0rk
 
