@@ -36,7 +36,37 @@ Students will be able to:
 
 ### Video: Introduction to Other Network Dynamic Processes
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:14)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:14 to 00:31)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:31 to 00:48)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
+
+#### Part 4 (00:48 to 01:01)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt04.mp4]]
+
+#### Part 5 (01:01 to 01:12)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt05.mp4]]
+
+#### Part 6 (01:12 to 01:28)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt06.mp4]]
+
+#### Part 7 (01:28 to 01:46)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt07.mp4]]
+
+#### Part 8 (01:46 to 01:52)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt08.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_4iuqe4gu
 
@@ -280,7 +310,17 @@ How would you explain the way that the critical threshold $f_c$ depends on the m
 
 ### Video: Small-world Networks and Decentralized Search
 
-[[sections/06-small-world-networks-and-decentralized-search.mp4]]
+#### Part 1 (00:00 to 00:47)
+
+[[sections/06-small-world-networks-and-decentralized-search/06-small-world-networks-and-decentralized-search_pt01.mp4]]
+
+#### Part 2 (00:47 to 01:46)
+
+[[sections/06-small-world-networks-and-decentralized-search/06-small-world-networks-and-decentralized-search_pt02.mp4]]
+
+#### Part 3 (01:46 to 02:29)
+
+[[sections/06-small-world-networks-and-decentralized-search/06-small-world-networks-and-decentralized-search_pt03.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_xpgyc1s8
 
@@ -419,7 +459,45 @@ One plausible explanation is that the network is not static — but instead, it 
 
 ### Video: Synchronization of Coupled Network Oscillators
 
-[[sections/11-synchronization-of-coupled-network-oscillators.mp4]]
+#### Part 1 (00:00 to 00:44)
+
+[[sections/11-synchronization-of-coupled-network-oscillators/11-synchronization-of-coupled-network-oscillators_pt01.mp4]]
+
+#### Part 2 (00:44 to 00:50)
+
+[[sections/11-synchronization-of-coupled-network-oscillators/11-synchronization-of-coupled-network-oscillators_pt02.mp4]]
+
+#### Part 3 (00:50 to 01:01)
+
+[[sections/11-synchronization-of-coupled-network-oscillators/11-synchronization-of-coupled-network-oscillators_pt03.mp4]]
+
+#### Part 4 (01:01 to 01:22)
+
+[[sections/11-synchronization-of-coupled-network-oscillators/11-synchronization-of-coupled-network-oscillators_pt04.mp4]]
+
+#### Part 5 (01:22 to 01:57)
+
+[[sections/11-synchronization-of-coupled-network-oscillators/11-synchronization-of-coupled-network-oscillators_pt05.mp4]]
+
+#### Part 6 (01:57 to 02:24)
+
+[[sections/11-synchronization-of-coupled-network-oscillators/11-synchronization-of-coupled-network-oscillators_pt06.mp4]]
+
+#### Part 7 (02:24 to 02:37)
+
+[[sections/11-synchronization-of-coupled-network-oscillators/11-synchronization-of-coupled-network-oscillators_pt07.mp4]]
+
+#### Part 8 (02:37 to 03:01)
+
+[[sections/11-synchronization-of-coupled-network-oscillators/11-synchronization-of-coupled-network-oscillators_pt08.mp4]]
+
+#### Part 9 (03:01 to 03:27)
+
+[[sections/11-synchronization-of-coupled-network-oscillators/11-synchronization-of-coupled-network-oscillators_pt09.mp4]]
+
+#### Part 10 (03:27 to 03:48)
+
+[[sections/11-synchronization-of-coupled-network-oscillators/11-synchronization-of-coupled-network-oscillators_pt10.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_y6leujtc
 
