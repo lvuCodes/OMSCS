@@ -34,7 +34,17 @@ Students will be able to:
 
 ### Video: Introduction to Degree Distribution and The "Friendship Paradox"
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:08)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:08 to 00:23)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:23 to 00:39)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_7055fv78
 
@@ -96,7 +106,13 @@ Show why the previous two distributions give straight lines when we plot them in
 
 ### Video: An Example — Degree Distribution of a Sex-Contact Network
 
-[[sections/04-example-sex-contact-network.mp4]]
+#### Part 1 (00:00 to 01:35)
+
+[[sections/04-example-sex-contact-network/04-example-sex-contact-network_pt01.mp4]]
+
+#### Part 2 (01:35 to 02:23)
+
+[[sections/04-example-sex-contact-network/04-example-sex-contact-network_pt02.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_rhkbd9vv
 
@@ -190,7 +206,25 @@ Derive the second moment of the degree distribution for the star network as the 
 
 ### Video: Application of the Friendship Paradox
 
-[[sections/07-application-friendship-paradox-immunization.mp4]]
+#### Part 1 (00:00 to 01:01)
+
+[[sections/07-application-friendship-paradox-immunization/07-application-friendship-paradox-immunization_pt01.mp4]]
+
+#### Part 2 (01:01 to 02:00)
+
+[[sections/07-application-friendship-paradox-immunization/07-application-friendship-paradox-immunization_pt02.mp4]]
+
+#### Part 3 (02:00 to 02:55)
+
+[[sections/07-application-friendship-paradox-immunization/07-application-friendship-paradox-immunization_pt03.mp4]]
+
+#### Part 4 (02:55 to 03:46)
+
+[[sections/07-application-friendship-paradox-immunization/07-application-friendship-paradox-immunization_pt04.mp4]]
+
+#### Part 5 (03:46 to 04:07)
+
+[[sections/07-application-friendship-paradox-immunization/07-application-friendship-paradox-immunization_pt05.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_ldqcxvp3
 
