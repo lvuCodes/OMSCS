@@ -36,7 +36,33 @@ Students will be able to:
 
 ### Video: Introduction to Social Influence and Other Network Contagion Phenomena
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:11)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:11 to 00:26)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:26 to 00:39)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
+
+#### Part 4 (00:39 to 00:58)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt04.mp4]]
+
+#### Part 5 (00:58 to 01:13)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt05.mp4]]
+
+#### Part 6 (01:13 to 01:24)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt06.mp4]]
+
+#### Part 7 (01:24 to 01:33)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt07.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_2udv1u97
 
@@ -80,7 +106,13 @@ YouTube or Twitter "influencers" today have tens of millions of followers — an
 
 ### Video: Diffusion, Cascades and Adoption Models
 
-[[sections/02-diffusion-cascades-and-adoption-models.mp4]]
+#### Part 1 (00:00 to 01:41)
+
+[[sections/02-diffusion-cascades-and-adoption-models/02-diffusion-cascades-and-adoption-models_pt01.mp4]]
+
+#### Part 2 (01:41 to 03:10)
+
+[[sections/02-diffusion-cascades-and-adoption-models/02-diffusion-cascades-and-adoption-models_pt02.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_q1kqpo9k
 
@@ -297,7 +329,13 @@ We recommend you read the paper: ["A simple rule for the evolution of cooperatio
 
 ### Video: Constrained Optimization Problem
 
-[[sections/08-seeding-for-maximum-network-cascade.mp4]]
+#### Part 1 (00:00 to 01:18)
+
+[[sections/08-seeding-for-maximum-network-cascade/08-seeding-for-maximum-network-cascade_pt01.mp4]]
+
+#### Part 2 (01:18 to 02:19)
+
+[[sections/08-seeding-for-maximum-network-cascade/08-seeding-for-maximum-network-cascade_pt02.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_mv9aldgn
 
@@ -446,7 +484,13 @@ Prove the last result stated above. The visualization at the right will help you
 
 ### Video: Multi-sensory Integration in the Rodent Brain
 
-[[sections/14-network-diffusion-in-the-brain.mp4]]
+#### Part 1 (00:00 to 00:59)
+
+[[sections/14-network-diffusion-in-the-brain/14-network-diffusion-in-the-brain_pt01.mp4]]
+
+#### Part 2 (00:59 to 01:52)
+
+[[sections/14-network-diffusion-in-the-brain/14-network-diffusion-in-the-brain_pt02.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_l65etm3t
 
