@@ -34,7 +34,25 @@ Students will be able to:
 
 ### Video: Introduction to Network Paths, Clustering and The "Small World" Property
 
-[[sections/00-lesson-overview.mp4]]
+#### Part 1 (00:00 to 00:17)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt01.mp4]]
+
+#### Part 2 (00:17 to 00:31)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt02.mp4]]
+
+#### Part 3 (00:31 to 00:48)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt03.mp4]]
+
+#### Part 4 (00:48 to 01:03)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt04.mp4]]
+
+#### Part 5 (01:03 to 01:09)
+
+[[sections/00-lesson-overview/00-lesson-overview_pt05.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_3tb87i1j
 
@@ -260,7 +278,13 @@ The three videos below form a 3-part series covering the empirical observation t
 
 ### Video: Clustering and Efficiency in Real-world Networks
 
-[[sections/09-clustering-and-efficiency-in-real-world-networks.mp4]]
+#### Part 1 (00:00 to 01:10)
+
+[[sections/09-clustering-and-efficiency-in-real-world-networks/09-clustering-and-efficiency-in-real-world-networks_pt01.mp4]]
+
+#### Part 2 (01:10 to 02:24)
+
+[[sections/09-clustering-and-efficiency-in-real-world-networks/09-clustering-and-efficiency-in-real-world-networks_pt02.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_1r2fgmek
 
@@ -290,7 +314,13 @@ Video URL: https://mediaspace.gatech.edu/media/t/1_1r2fgmek
 
 ### Video: Watts Strogatz Model
 
-[[sections/09-watts-strogatz-model.mp4]]
+#### Part 1 (00:00 to 01:32)
+
+[[sections/09-watts-strogatz-model/09-watts-strogatz-model_pt01.mp4]]
+
+#### Part 2 (01:32 to 02:55)
+
+[[sections/09-watts-strogatz-model/09-watts-strogatz-model_pt02.mp4]]
 
 Video URL: https://mediaspace.gatech.edu/media/t/1_p3bpfu4x
 
